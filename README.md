@@ -5,7 +5,7 @@ https://www.kaggle.com/c/expedia-hotel-recommendations
 ## Abstract
 Planning your dream vacation, or even a weekend escape, can be an overwhelming affair. With hundreds, even thousands, of hotels to choose from at every destination, it's difficult to know which will suit your personal preferences. Should you go with an old standby with those pillow mints you like, or risk a new hotel with a trendy pool bar? 
 
-![icon](https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/media/expedia_icons.png)
+![icon](https://storage.googleapis.com/kaggle-competitions/kaggle/5056/media/expedia_icons.png)
 
 
 Expedia wants to take the proverbial rabbit hole out of hotel search by providing personalized hotel recommendations to their users. This is no small task for a site with hundreds of millions of visitors every month!
